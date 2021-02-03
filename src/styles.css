@@ -1,0 +1,16 @@
+.heading {
+  color: red;
+  background-color: black;
+}
+ul {
+  color: blue;
+}
+li.img {
+  height: 100px;
+  width: 100px;
+}
+.head {
+  font-size: 50px;
+  font-weight: bold;
+  border: 5px solid black;
+}
